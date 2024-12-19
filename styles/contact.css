@@ -1,0 +1,31 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.our1 {
+    display: flex;
+    flex-direction: column;
+    font-family: arial;
+    width: 590px;
+    background-color: bisque;
+}
+.info2 {
+    width: 550px;
+}
+.down-title1 {
+    color: rgb(65, 65, 245);
+}
+.down-title2 {
+    color: green;
+}
+.down-title3 {
+    color: red;
+}
+.our2 {
+    font-family: arial;
+    background-color: aliceblue;
+    padding-right: 20px;
+    padding-left: 20px;
+}

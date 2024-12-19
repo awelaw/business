@@ -1,0 +1,11 @@
+.down {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #005f73;
+    padding: 50px 5px 50px 5px;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 19px;
+}
